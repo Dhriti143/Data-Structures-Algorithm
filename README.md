@@ -3,17 +3,19 @@
 This repository contains implementation examples of various data structures practiced during the 3rd semester.
 
 ## Contents
-
-1. [Array](./array.py)
-2. [Linked List](./linked_list.py)
-3. [Stack](./stack.py)
-4. [Queue](./queue.py)
-5. [Binary Search Tree](./binary_search_tree.py)
-6. [Hash Table](./hash_table.py)
-7. [Heap](./heap.py)
-8. [Graph](./graph.py)
-9. [Tree](./tree.py)
-10. [Priority Queue](./priority_queue.py)
+1. Insert sort
+2. Select sort
+3. Quick Sort
+4. Merge sort
+5. Adding two numbers using linked list
+6. --
+7. Matrix multiplication
+8. Krushkal's algorithm
+9. Flyodd Warshall's algorithm
+10. n Queens problem
+11. Travelling Salesman Problem (TSP) Using Backtracking
+12. N License problem using Greedy Approach
+13. Finding peak value using divide and conquer
 
 ## Usage
 
