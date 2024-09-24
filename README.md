@@ -12,7 +12,7 @@ This repository contains implementation examples of various data structures prac
 6. [Hash Table](./hash_table.py)
 7. [Heap](./heap.py)
 8. [Graph](./graph.py)
-9. [Trie](./trie.py)
+9. [Tree](./tree.py)
 10. [Priority Queue](./priority_queue.py)
 
 ## Usage
