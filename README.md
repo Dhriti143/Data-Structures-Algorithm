@@ -1,4 +1,4 @@
-# Data Structures
+# Data Structures & Algothrims
 
 This repository contains implementation examples of various data structures practiced during the 3rd semester.
 
